@@ -1,9 +1,8 @@
-<!--
 # 👋 Olá! Eu sou o Rodolfo
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Aspirante+a+Desenvolvedor+Full+Stack;Cloud+Leader+e+SAP+Business+One;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas!)
 
 </div>
 
@@ -17,7 +16,7 @@ Sou líder em soluções cloud e aspirante a desenvolvedor, apaixonado por criar
 - 🌱 Estudando **Python**, **JavaScript** e aprimorando conhecimentos em **cloud computing**
 - 👯 Procurando colaborar em **projetos open source** e **soluções empresariais**
 - 💬 Pergunte-me sobre **soluções cloud**, **SAP BusinessOne**, **APIs** e **automação**
-- 📫 Como me encontrar: **rodolfo@exemplo.com**
+- 📫 Como me encontrar: **combinato.rodolfo@gmail.com**
 - ⚡ Curiosidade: Adoro integrar diferentes plataformas cloud para criar soluções robustas!
 
 ## 🛠️ Tech Stack
@@ -50,11 +49,13 @@ Sou líder em soluções cloud e aspirante a desenvolvedor, apaixonado por criar
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Ferramentas & Plataformas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -62,12 +63,13 @@ Sou líder em soluções cloud e aspirante a desenvolvedor, apaixonado por criar
 ### Sistema Operacional & Ambiente
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SUSE](https://img.shields.io/badge/SUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimetsunodarth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimetsunodarth&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimetsunodarth&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimetsunodarth&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
@@ -116,10 +118,11 @@ Coleção de scripts para automação de tarefas administrativas e desenvolvimen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rodolfo-combinato-9181a266)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@RodolfoCombinato)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/rcombinato)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:combinato.rodolfo@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimetsunodarth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://seu-portfolio.com)
 
 </div>
 
@@ -135,8 +138,9 @@ Coleção de scripts para automação de tarefas administrativas e desenvolvimen
 
 <div align="center">
 
-### 🎵 Atualmente ouvindo no Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/seu-usuario-spotify)
+### 🎵 Atualmente ouvindo no Apple Music
+[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com)
+**🎧 I Prevail**
 
 </div>
 
