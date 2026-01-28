@@ -79,6 +79,7 @@ Sou líder em soluções cloud e aspirante a desenvolvedor, apaixonado por criar
 ## 🏆 Troféus do GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kimetsunodarth&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://learn.microsoft.com/api/achievements/share/pt-br/RodolfoCombinato-4962/ZDCF47K2?sharingId=B4482C3EB6929832"/>
 </div>
 
 ## 🎯 Projetos em Destaque
